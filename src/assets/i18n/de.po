@@ -104,7 +104,7 @@ msgstr ""
 "die Systemperformance beeinträchtigen "
 
 msgid " seconds"
-msgstr ""
+msgstr "Sekunden"
 
 msgid ""
 " seconds unless KEEP PERMANENTLY is chosen. Adjust the delay time to allow "
@@ -156,7 +156,7 @@ msgid "(24 Hours)"
 msgstr "(24 Stunden)"
 
 msgid "(Examples: 500 KiB, 500M, 2 TB)"
-msgstr ""
+msgstr "(Beispiele: 500 KiB, 500M, 2 TB)"
 
 msgid "(No description)"
 msgstr "(Keine Beschreibung)"
